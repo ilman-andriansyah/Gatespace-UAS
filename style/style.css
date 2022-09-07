@@ -1,0 +1,12 @@
+body{background-color:black;font-family:helvetica;color:white;}
+/*CSS TABLE*/
+table{border-collapse:collapse;}
+/*MAIN TABLE*/
+.main-header{color:black;background-color:yellow;}
+.main-footer{color:black;background-color:yellow;}
+/*END OF MAIN TABLE*/
+/*SECOND TABLE*/
+.second-header{color:black;background-color:lime;}
+.second-footer{color:black;background-color:lime;}
+/*END OF SECOND TABLE*/
+/*END OF CSS TABLE*/
